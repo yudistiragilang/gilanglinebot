@@ -1,0 +1,10 @@
+{
+    "name": "gilang/line-bot-php",
+    "description": "Membuat line bot dengan php slim framework",
+    "type": "project",
+    "require": {
+		"php": "^7.1",
+		"slim/slim": "^3.11",
+		"linecorp/line-bot-sdk": "^3.6"
+	}
+}
